@@ -1,0 +1,24 @@
+.jumbotron {
+    color:#006aa7;
+    background-color: #006aa738;
+}
+
+#result-table {
+    min-height: 400px;
+}
+
+#result {
+    font-size: 3rem;
+}
+
+.btn-primary {
+    background-color: #fecc00;
+    color: #006aa7;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color:#006aa7;
+    color: #fecc00;
+    border: none;
+}
